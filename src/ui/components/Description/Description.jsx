@@ -6,7 +6,7 @@ class Description extends Component {
     render () {
         return <section>
             <h1 className={styles.title}>react-bootstrap-app</h1>
-            <div className={styles.description}>Сделай форк и начинай кодить</div>
+            <div className={styles.description}>Сделай форк и начинай кодить!</div>
         </section>;
     }
 }
