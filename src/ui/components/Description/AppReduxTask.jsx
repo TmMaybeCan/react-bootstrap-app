@@ -64,7 +64,7 @@ class AppReduxTask extends Component {
                        value={value}
                        onChange={this.handleChange}
                 />
-                <button onClick={this.addItem}>Add to list</button>
+                <button onClick={this.addItem}>Add to List</button>
                 <ol>
                     {list}
                 </ol>
